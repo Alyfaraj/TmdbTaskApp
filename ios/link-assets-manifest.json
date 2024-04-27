@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Teshrin AR+LT Bold.ttf",
+      "sha1": "8a067dbfdcfaf9a20362ad8906f27fa316eea29c"
+    },
+    {
+      "path": "src/assets/fonts/Teshrin AR+LT Light.ttf",
+      "sha1": "7ed855f5fef33249e004850def3ca2094b77eee3"
+    },
+    {
+      "path": "src/assets/fonts/Teshrin AR+LT Medium.ttf",
+      "sha1": "1dfcc04d77d9cba1295f644a996de107021e1c3b"
+    },
+    {
+      "path": "src/assets/fonts/Teshrin AR+LT Regular.ttf",
+      "sha1": "81fe65c55c899b0dbc9f974e8fbe7478c41256c1"
+    }
+  ]
+}
